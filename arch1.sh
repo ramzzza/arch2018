@@ -32,13 +32,13 @@ echo '2.4 создание разделов'
   echo;
   echo;
   echo;
-  echo +20G;
+  echo +80G;
 
   echo n;
   echo;
   echo;
   echo;
-  echo +1024M;
+  echo +4096M;
 
   echo n;
   echo p;
